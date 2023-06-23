@@ -4,3 +4,4 @@ console.log("Aplicação se conectadndo ao banco de dados")
 console.log("Novo committ")
 //Mais um console e log de teste 2:
 console.log("Novo committ")
+console.log("Enviando para o GitHub")
